@@ -1,0 +1,30 @@
+Table,Field,Description
+Resorts,ID,Unique identifier for each resort
+Resorts,Resort,Name of the ski & snowboard resort
+Resorts,Latitude,Latitude for the resort's location
+Resorts,Longitude,Longitude for the resort's location
+Resorts,Country,Country in which the resort is located
+Resorts,Continent,Continent in which the resort is located
+Resorts,Price,Ski pass cost for 1 adult for 1 day in the main season (Euro - €)
+Resorts,Season,Normal start and end of the ski season at the resort (note that it allways will depend on the weather and snowfall)
+Resorts,Highest point,Highest mountain point at the resort (meters)
+Resorts,Lowest point,Lowest possible point to ski at the resort (meters)
+Resorts,Beginner slopes,"Total length of ""children"", ""blue"", and ""green"" slopes at the resort (km)"
+Resorts,Intermediate slopes,"Total length of ""red"" slopes at the resort (km)"
+Resorts,Difficult slopes,"Total length of ""black"", ""advanced"", and ""expert"" slopes at the resort (km)"
+Resorts,Total slopes,Total length of slopes at the resort (km)
+Resorts,Longest run,Longest possible continuous run at the ski resort (km)
+Resorts,Snow cannons,Total amount of snow cannons at the resort
+Resorts,Surface lifts,"Total number of surface lifts, including T-bar, Sunkidslift, Rope lifts and people mover"
+Resorts,Chair lifts,Total number of chair lifts
+Resorts,Gondola lifts,"Total number of gondola lifts, including Gondola, Train lifts, Funicular, Combined gondola and chairlifts, Helicopter lifts, Snowcats and Aerial tramways"
+Resorts,Total lifts,Total number of lifts
+Resorts,Lift capacity,Number of passengers the resort's lift system can move in an hour
+Resorts,Child friendly,Is the ski resort child friendly?
+Resorts,Snowparks,Does the resort have one or more snowparks?
+Resorts,Nightskiing,Does the resort offer skiing on illuminated slopes?
+Resorts,Summer skiing,Does the resort offer skiing during the summer?
+Snow,Month,Date to represent the month of the year (not just the first day)
+Snow,Latitude,"Latitude at the center of the region (every ""region"" is 0.25x0.25 degrees in size)"
+Snow,Longitude,"Longitude at the center of the region (every ""region"" is 0.25x0.25 degrees in size)"
+Snow,Snow,Percent of time the region was covered in snow during the month
